@@ -1,0 +1,14 @@
+sse-starlette
+langserve
+uvicorn
+bs4
+pypdf
+faiss-cpu
+langchain_google_genai
+requests
+fastapi
+langchain
+langchain_core
+langchain_community
+streamlit
+html5lib
